@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Data_and_operation/Data_and_operation.iml" filepath="$PROJECT_DIR$/Data_and_operation/Data_and_operation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApp/MyApp.iml" filepath="$PROJECT_DIR$/MyApp/MyApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Programming/Programming.iml" filepath="$PROJECT_DIR$/Programming/Programming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloworld1/helloworld1.iml" filepath="$PROJECT_DIR$/helloworld1/helloworld1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloworld2/helloworld2.iml" filepath="$PROJECT_DIR$/helloworld2/helloworld2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java1_5_a/java1_5_a.iml" filepath="$PROJECT_DIR$/java1_5_a/java1_5_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/Data_and_operation/Data_and_operation.iml" filepath="$PROJECT_DIR$/Coding_Everybody/Data_and_operation/Data_and_operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/MyApp/MyApp.iml" filepath="$PROJECT_DIR$/Coding_Everybody/MyApp/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/Programming/Programming.iml" filepath="$PROJECT_DIR$/Coding_Everybody/Programming/Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/helloworld1/helloworld1.iml" filepath="$PROJECT_DIR$/Coding_Everybody/helloworld1/helloworld1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/helloworld2/helloworld2.iml" filepath="$PROJECT_DIR$/Coding_Everybody/helloworld2/helloworld2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Everybody/java1_5_a/java1_5_a.iml" filepath="$PROJECT_DIR$/Coding_Everybody/java1_5_a/java1_5_a.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_practice.iml" filepath="$PROJECT_DIR$/java_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_data_structure/queue/queue.iml" filepath="$PROJECT_DIR$/Basic_data_structure/queue/queue.iml" />
     </modules>
   </component>
 </project>

@@ -6,8 +6,6 @@ import org.opentutorials.iot.Elevator;
 import org.opentutorials.iot.Lighting;
 import org.opentutorials.iot.Security;
 
-import javax.swing.*;
-
 public class OkJavaGoInhomeInput {
 
     //주석 한글 하이룽
